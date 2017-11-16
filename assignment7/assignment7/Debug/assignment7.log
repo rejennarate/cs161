@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\dropbox\cs161\assignment7\assignment7\main.cpp(149): warning C4018: '<': signed/unsigned mismatch
+f:\dropbox\cs161\assignment7\assignment7\main.cpp(152): warning C4018: '<': signed/unsigned mismatch
+  assignment7.vcxproj -> F:\Dropbox\cs161\assignment7\Debug\assignment7.exe
+  assignment7.vcxproj -> F:\Dropbox\cs161\assignment7\Debug\assignment7.pdb (Partial PDB)

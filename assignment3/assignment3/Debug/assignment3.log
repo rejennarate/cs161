@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\cs161\assignment3\assignment3\main.cpp(33): warning C4101: 'oversizePerFootRate': unreferenced local variable
+  assignment3.vcxproj -> C:\cs161\assignment3\Debug\assignment3.exe
+  assignment3.vcxproj -> C:\cs161\assignment3\Debug\assignment3.pdb (Partial PDB)
